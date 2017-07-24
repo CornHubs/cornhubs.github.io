@@ -13,6 +13,7 @@ li{
     color: white;
     font-weight: bold;
     padding-bottom: 8px;
+    position: fixed;
 }
 #footer{
     padding-top: 30px;
