@@ -13,13 +13,13 @@ li{
     color: white;
     font-weight: bold;
     padding-bottom: 8px;
-    position: fixed;
 }
 #footer{
     padding-top: 30px;
     padding-bottom: 30px;
     background-color: #262626;
     color: white;
+    text-align: center;
 }
 #cornible{
     background-color: white;
