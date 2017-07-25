@@ -15,12 +15,14 @@ li{
     padding-bottom: 8px;
 }
 #body #left{
+    margin-top: 20px;
     float: left;
 }
 #body #center{
     float: center;
 }
 #body #right {
+    margin-top: 20px;
     float: right;
 }
 #footer{
