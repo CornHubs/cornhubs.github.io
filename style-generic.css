@@ -14,11 +14,15 @@ li{
     font-weight: bold;
     padding-bottom: 8px;
 }
-
 #body #left{
     float: left;
 }
-
+#body #center{
+    float: center;
+}
+#body #right {
+    float: right;
+}
 #footer{
     padding-top: 30px;
     padding-bottom: 30px;
