@@ -17,6 +17,7 @@ li{
 #body #left{
     background-color: #3b3b3b;
     margin-top: 20px;
+    height: 100%;
     float: left;
 }
 #body #center{
