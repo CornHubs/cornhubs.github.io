@@ -3,10 +3,12 @@
     padding: 0px;
     font-family: sans-serif;
 }
+
 li{
     display: inline;
     padding: 5%;
 }
+
 #header{
     background-color: #262626;
     text-align: center;
@@ -14,17 +16,21 @@ li{
     font-weight: bold;
     padding-bottom: 8px;
 }
+
 #body #left{
     margin-top: 20px;
     float: left;
 }
+
 #body #center{
     float: center;
 }
+
 #body #right {
     margin-top: 20px;
     float: right;
 }
+
 #footer{
     padding-top: 30px;
     padding-bottom: 30px;
@@ -32,20 +38,24 @@ li{
     color: white;
     text-align: center;
 }
+
 #cornible{
     background-color: white;
     margin-left: 25%;
     margin-right: 25%;
     padding: 25px;
 }
+
 li a{
     text-decoration: none;
     color: white;
 }
+
 p a{
     text-decoration: none;
     color: black; 
 }
+
 span a{
     text-decoration: none;
     color: white; 
@@ -70,6 +80,12 @@ body{
 
 .home-link{
     text-decoration: none;
+}
+
+.alert {
+    background-color: red;
+    border-radius: 15px;
+    color: white;
 }
 
 .dropdown {
