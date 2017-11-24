@@ -86,6 +86,7 @@ body{
     background-color: red;
     border-radius: 15px;
     color: white;
+    width: 30px;
 }
 
 .dropdown {
