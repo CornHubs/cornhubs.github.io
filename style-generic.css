@@ -1,10 +1,10 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
     font-family: sans-serif;
 }
 
-li{
+li {
     display: inline;
     padding: 5%;
 }
@@ -13,7 +13,7 @@ p {
     text-indent: 40px;
 }
 
-#header{
+#header {
     background-color: #262626;
     text-align: center;
     color: white;
@@ -21,12 +21,12 @@ p {
     padding-bottom: 8px;
 }
 
-#body #left{
+#body #left {
     margin-top: 20px;
     float: left;
 }
 
-#body #center{
+#body #center {
     float: center;
 }
 
@@ -35,7 +35,7 @@ p {
     float: right;
 }
 
-#footer{
+#footer {
     padding-top: 30px;
     padding-bottom: 30px;
     background-color: #262626;
@@ -43,46 +43,46 @@ p {
     text-align: center;
 }
 
-#cornible{
+#cornible {
     background-color: white;
     margin-left: 25%;
     margin-right: 25%;
     padding: 25px;
 }
 
-li a{
+li a {
     text-decoration: none;
     color: white;
 }
 
-p a{
+p a {
     text-decoration: none;
     color: black; 
 }
 
-span a{
+span a {
     text-decoration: none;
     color: white; 
 }
 
-#footer a{
+#footer a {
     text-decoration: none;
     color: white; 
 }
 
-img{
+img {
     padding-top: 20px;
     display: block;
     margin: auto;
     width: 40%;
 }
 
-body{
+body {
     background: url(http://previews.123rf.com/images/lnzyx/lnzyx1308/lnzyx130800936/21358005-piles-of-corn-bonzi-material-closeup-of-photo-Stock-Photo.jpg) no-repeat center center fixed;
     background-size: cover;
 }
 
-.home-link{
+.home-link {
     text-decoration: none;
 }
 
