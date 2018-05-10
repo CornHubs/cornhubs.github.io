@@ -4,14 +4,6 @@
     font-family: sans-serif;
 }
 
-
-img {
-    padding-top: 20px;
-    display: block;
-    margin: auto;
-    width: 40%;
-}
-
 body {
     background: url(https://cdn.cornhubs.gq/images/cornhubs_home_background.jpg) no-repeat center center fixed;
     background-size: cover;
