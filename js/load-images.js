@@ -10,7 +10,7 @@ do {
   http.send();
   
   if (http.status != 404)
-    document.getElementById("content").innerHTML += "<img src=\"" + url + "\" alt=\"corn\"></br>";
+    document.getElementById("center").innerHTML += "<img src=\"" + url + "\" alt=\"corn\"></br>";
   else
     break;
         
