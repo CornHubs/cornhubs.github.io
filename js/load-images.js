@@ -6,7 +6,7 @@ do {
   var url = "https://cdn.cornhubs.gq/images/cornhubs_home_" + this.imageIndex + ".jpg";
         
   var http = new XMLHttpRequest();
-  http.open('HEAD', url, true);
+  http.open('GET', url, true);
   http.send();
   
   if (http.status != 404)
