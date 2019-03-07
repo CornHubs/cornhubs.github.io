@@ -3,7 +3,7 @@ imageIndex = 0;
 let http = new XMLHttpRequest();
 
 do {
-    let url = "https://cdn.cornhubs.savageavocado.com/images/cornhubs_home_" + imageIndex + ".jpg";
+    let url = "https://cdn.cornhubs.savageavocado.net/images/cornhubs_home_" + imageIndex + ".jpg";
 
     http.open('GET', url, false);
     http.send();
