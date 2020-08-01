@@ -2,7 +2,7 @@ let http = new XMLHttpRequest();
 let imageIndex = 0;
 
 do {
-    let url = "https://cornhubs.github.io/assets/images/home_" + imageIndex + ".jpg";
+    let url = "assets/images/home_" + imageIndex + ".jpg";
 
     http.open('GET', url, false);
     http.send();
